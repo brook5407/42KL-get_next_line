@@ -7,11 +7,11 @@
 </p>
 
 <p align="center">
-	<img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/brook5407/42KL_get_next_line">
-	<img alt="Lines of code" src="https://img.shields.io/tokei/lines/github/brook5407/42KL_get_next_line">
+	<img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/brook5407/42KL-get_next_line">
+	<img alt="Lines of code" src="https://img.shields.io/tokei/lines/github/brook5407/42KL-get_next_line">
 	<img alt="Code language count" src="https://img.shields.io/github/languages/count/surfi89/get_next_line?color=yellow" />
-	<img alt="GitHub top language" src="https://img.shields.io/github/languages/top/brook5407/42KL_get_next_line">
-	<img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/brook5407/42KL_get_next_line">
+	<img alt="GitHub top language" src="https://img.shields.io/github/languages/top/brook5407/42KL-get_next_line">
+	<img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/brook5407/42KL-get_next_line">
 </p>
 
 <h3 align="center">
